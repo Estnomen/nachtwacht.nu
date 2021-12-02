@@ -1,3 +1,3 @@
 git add .
 git commit -m 'update'
-git push https://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@github.com/Estnomen/nachtwacht.git
+git push https://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@github.com/Estnomen/nachtwacht.git
